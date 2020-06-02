@@ -18,7 +18,6 @@ void main(){
         }
     }
     }
-    printf("\n Ordene");
     for(i=0; i<TAM; i++){
         printf("\n n[%d]: %d", i, n[i]);
     }
